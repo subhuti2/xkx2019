@@ -1,0 +1,45 @@
+d/beijing/aobai7.c line 59: Warning: Return type doesn't match prototype ( int vs void )
+adm/simul_efun/object.c line 85: Invalid simulated efunction override
+adm/simul_efun/object.c line 85: Invalid simulated efunction override
+adm/simul_efun/object.c line 85: Invalid simulated efunction override
+adm/simul_efun/object.c line 71: Undefined variable 'DOMAIN_UID'
+adm/simul_efun/object.c line 101: Undefined variable 'MUDLIB_UID'
+adm/simul_efun/object.c line 125: Invalid simulated efunction override
+adm/simul_efun/object.c line 96: Invalid simulated efunction override
+adm/simul_efun/object.c line 85: Invalid simulated efunction override
+adm/simul_efun/object.c line 85: Invalid simulated efunction override
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/city/leitai.c line 104: Warning: Return type doesn't match prototype ( int vs string )
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/city/leitai.c line 104: Warning: Return type doesn't match prototype ( int vs string )
+d/city/shuyuan2.c line 6: Warning: redefinition of #define STORY_DIR
+
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/city/leitai.c line 104: Warning: Return type doesn't match prototype ( int vs string )
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/mingjiao/npc/hu.c line 309: Warning: Return type doesn't match prototype ( string vs int )
+d/quanzhen/damen.c line 74: Warning: Return type doesn't match prototype ( int vs void )
+d/wudujiao/obj/ganchai.c line 35: Warning: bitwise operation on boolean values.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/xiakedao/npc/yufu.c line 33: Warning: Return type doesn't match prototype ( int vs void )
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/huanggong/yushufang.c line 57: Warning: Return type doesn't match prototype ( int vs void )
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/city/task3/shiye.c line 89: Warning: Return type doesn't match prototype ( string vs int )
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/xiakedao/npc/yufu.c line 33: Warning: Return type doesn't match prototype ( int vs void )
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/wudujiao/mishi.c line 69: Warning: bitwise operation on boolean values.
+d/wudujiao/mishi.c line 69: Warning: bitwise operation on boolean values.
+d/huanggong/yushufang.c line 57: Warning: Return type doesn't match prototype ( int vs void )
+d/quanzhen/damen.c line 74: Warning: Return type doesn't match prototype ( int vs void )
+d/city/shuyuan2.c line 6: Warning: redefinition of #define STORY_DIR
+
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.

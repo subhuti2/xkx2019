@@ -1,0 +1,7 @@
+学菩提(subhuti) call 学菩提(subhuti)->set_skill("force", 300) on Thu Apr 04 12:48:40 2019
+学菩提(subhuti) call 学菩提(subhuti)->set_skill("taiji-shengong", 300) on Thu Apr 04 12:48:49 2019
+学菩提(subhuti) call 学菩提(subhuti)->set("max_neili", 3000) on Thu Apr 04 12:49:42 2019
+学菩提(subhuti) call 学菩提(subhuti)->set("neili", 3000) on Thu Apr 04 12:49:47 2019
+学菩提(subhuti) call 学菩提(subhuti)->set_skill("taiji-shengong", 3000) on Thu Apr 04 12:50:22 2019
+学菩提(subhuti) call 学菩提(subhuti)->set('eff_qi', 800) on Thu Apr 04 13:35:23 2019
+学菩提(subhuti) call 学菩提(subhuti)->set("eff_qi", 800) on Thu Apr 04 13:35:48 2019

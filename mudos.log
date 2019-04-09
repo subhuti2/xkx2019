@@ -1,0 +1,2719 @@
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows 95 at Thu Apr 04 12:43:34 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx100\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows 95 at Thu Apr 04 12:47:27 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx100\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows 95 at Thu Apr 04 12:58:36 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx100\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+错误讯息被拦截: 
+执行时段错误：*Can't load objects when no effective user.
+
+程式：feature/condition.c 第 33 行
+物件: /clone/user/user#287
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#287 ("南宫长万")
+呼叫来自：feature/condition.c 的 update_condition() 第 33 行，物件： clone/user/user#287 ("南宫长万")
+呼叫来自：feature/condition.c 的 CATCH() 第 33 行，物件： clone/user/user#287 ("南宫长万")
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows 95 at Thu Apr 04 13:00:24 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx100\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：adm/single/master.c 的 preload() 第 108 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 108 行，物件： adm/single/master
+呼叫来自：adm/daemons/questd.c 的 create() 第 34 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 72 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 95 行，物件： adm/daemons/questd
+呼叫来自：d/wudang/xiaolu1.c 的 create() 第 24 行，物件： d/wudang/xiaolu1
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/wudang/xiaolu1
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/xiaolu1
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/xiaolu1
+呼叫来自：kungfu/class/wudang/qingfeng.c 的 create() 第 39 行，物件： kungfu/class/wudang/qingfeng ("清风")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows 95 at Thu Apr 04 13:00:50 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx100\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows 95 at Thu Apr 04 13:01:21 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx100\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 13:31:56 2019
+
+Initializing internal tables....
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Bad mudlib directory: C:\slash\home\mobaxterm\git\hub\xkx100
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) shutdown at Thu Apr 04 13:31:56 2019
+
+
+
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 13:32:55 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 13:33:00 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 14:26:59 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 14:29:42 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 14:30:13 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 14:36:42 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 14:38:54 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 15:08:09 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 16:49:42 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#260
+呼叫来自：adm/daemons/logind.c 的 delete_err_pass() 第 356 行，物件： adm/daemons/logind
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1050 行，物件： adm/daemons/logind
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#260 ("南宫长万")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#260
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#260 ("南宫长万")
+Heart beat in clone/user/user#260 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#260
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#260 ("南宫长万")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#260
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#260 ("南宫长万")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#260
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#260 ("南宫长万")
+Heart beat in clone/user/user#260 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#260
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#260 ("南宫长万")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#260
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#260 ("南宫长万")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#260
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#260 ("南宫长万")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#260 ("南宫长万")
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 16:55:35 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：clone/quest/questman.c 第 43 行
+物件: /clone/quest/questman#1879
+呼叫来自：clone/quest/questman.c 的 random_move() 第 43 行，物件： clone/quest/questman#1879 ("房永班")
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 20:28:52 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：adm/single/master.c 的 preload() 第 108 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 108 行，物件： adm/single/master
+呼叫来自：adm/daemons/questd.c 的 create() 第 34 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 72 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 95 行，物件： adm/daemons/questd
+呼叫来自：d/wudang/xiaolu2.c 的 create() 第 26 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/xiaolu2
+呼叫来自：kungfu/class/wudang/mingyue.c 的 create() 第 39 行，物件： kungfu/class/wudang/mingyue ("明月")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/xiaolu2
+呼叫来自：kungfu/class/wudang/mingyue.c 的 create() 第 39 行，物件： kungfu/class/wudang/mingyue#419 ("明月")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Thu Apr 04 21:16:37 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Fri Apr 05 13:15:24 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Fri Apr 05 20:46:25 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Fri Apr 05 20:48:11 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Fri Apr 05 20:48:47 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：adm/daemons/crond.c 的 init_cron() 第 33 行，物件： adm/daemons/crond
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 72 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 95 行，物件： adm/daemons/questd
+呼叫来自：d/wudang/chaotiangong.c 的 create() 第 26 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#712 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#845 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#935 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#1234 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#1299 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#1389 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#1457 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#1605 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#1976 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2012 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2117 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2198 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2273 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2506 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2550 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2601 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+
+程式：d/taohuacun/taohua7.c 第 99 行
+物件: /d/taohuacun/taohua7
+呼叫来自：clone/quest/questyinshi.c 的 random_move() 第 236 行，物件： clone/quest/questyinshi#2674 ("剑客")
+呼叫来自：d/taohuacun/taohua7.c 的 enter_home() 第 99 行，物件： d/taohuacun/taohua7
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2686 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#2865 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#3130 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#3167 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#3245 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#3344 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#3398 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sat Apr 06 09:54:53 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 220
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sat Apr 06 10:41:09 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sat Apr 06 17:10:43 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Array index out of bounds.
+
+程式：inherit/char/npc.c 第 279 行
+物件: /d/city/npc/lulixian#713
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 109 行，物件： d/city/npc/lulixian#713 ("陆丽仙")
+呼叫来自：inherit/char/npc.c 的 chat() 第 279 行，物件： d/city/npc/lulixian#713 ("陆丽仙")
+Heart beat in d/city/npc/lulixian#713 turned off.
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sat Apr 06 23:27:50 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sat Apr 06 23:27:53 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sat Apr 06 23:30:08 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：adm/single/master.c 的 preload() 第 108 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 108 行，物件： adm/single/master
+呼叫来自：adm/daemons/questd.c 的 create() 第 34 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 72 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 95 行，物件： adm/daemons/questd
+呼叫来自：d/wudang/chaotiangong.c 的 create() 第 26 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#634 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#1046 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu#1344 ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 11:34:09 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 1 to set_living_name()
+Expected: string Got: 0.
+
+程式：feature/command.c 第 98 行
+物件: /clone/user/user#1226
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 338 行，物件： adm/daemons/logind
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1040 行，物件： adm/daemons/logind
+呼叫来自：clone/user/user.c 的 setup() 第 74 行，物件： clone/user/user#1226 ("/clone/user/user#1226")
+呼叫来自：inherit/char/char.c 的 setup() 第 54 行，物件： clone/user/user#1226 ("/clone/user/user#1226")
+呼叫来自：feature/command.c 的 enable_player() 第 98 行，物件： clone/user/user#1226 ("/clone/user/user#1226")
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 28 行
+物件: /adm/single/simul_efun
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#1226 ("/clone/user/user#1226")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#1226 ("/clone/user/user#1226")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 18 行，物件： kungfu/condition/autosave
+呼叫来自：adm/single/simul_efun.c 的 message_vision() 第 28 行，物件： adm/single/simul_efun
+Heart beat in clone/user/user#1226 turned off.
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 14:57:54 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 14:57:58 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 14:58:50 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+******** FATAL ERROR: Totally out of MEMORY.
+
+MudOS driver attempting to exit gracefully.
+Initializing internal tables....
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) shutdown at Sun Apr 07 15:00:19 2019
+
+
+
+
+<---侠客行一百: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 15:00:21 2019
+
+using config file: C:\slash\home\mobaxterm\git\hub\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 14:21:00 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 14:27:00 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 16:41:44 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 17:00:14 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：adm/single/master.c 的 preload() 第 108 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 108 行，物件： adm/single/master
+呼叫来自：adm/daemons/questd.c 的 create() 第 34 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 72 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 95 行，物件： adm/daemons/questd
+呼叫来自：d/wudang/chaotiangong.c 的 create() 第 26 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/chaotiangong
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/chaotiangong
+呼叫来自：kungfu/class/wudang/qingxu.c 的 create() 第 49 行，物件： kungfu/class/wudang/qingxu ("清虚道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：adm/single/master.c 的 preload() 第 108 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 108 行，物件： adm/single/master
+呼叫来自：adm/daemons/crond.c 的 create() 第 17 行，物件： adm/daemons/crond
+呼叫来自：adm/daemons/crond.c 的 init_cron() 第 36 行，物件： adm/daemons/crond
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 72 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 95 行，物件： adm/daemons/questd
+呼叫来自：d/wudang/xiaolu2.c 的 create() 第 26 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/xiaolu2
+呼叫来自：kungfu/class/wudang/mingyue.c 的 create() 第 39 行，物件： kungfu/class/wudang/mingyue ("明月")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Array index out of bounds.
+
+程式：inherit/char/npc.c 第 279 行
+物件: /d/city/npc/lulixian#160
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 109 行，物件： d/city/npc/lulixian#160 ("陆丽仙")
+呼叫来自：inherit/char/npc.c 的 chat() 第 279 行，物件： d/city/npc/lulixian#160 ("陆丽仙")
+Heart beat in d/city/npc/lulixian#160 turned off.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 17:07:13 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 17:14:39 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 256
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#812
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#812 ("商羊")
+Heart beat in clone/user/user#812 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#812
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#812 ("商羊")
+Heart beat in clone/user/user#812 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#812
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#812 ("商羊")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#812 ("商羊")
+Heart beat in clone/user/user#812 turned off.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+get_user_data: read on fd 260
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 21:41:07 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 21:50:51 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 22:01:28 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 22:56:41 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 22:56:44 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 23:02:17 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Sun Apr 07 23:03:18 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 476
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+get_user_data: read on fd 476
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+get_user_data: read on fd 476
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+get_user_data: read on fd 476
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+get_user_data: read on fd 476
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 09:04:20 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：adm/single/master.c 的 preload() 第 108 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 108 行，物件： adm/single/master
+呼叫来自：adm/daemons/questd.c 的 create() 第 34 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 72 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 95 行，物件： adm/daemons/questd
+呼叫来自：d/wudang/langmeiyuan.c 的 create() 第 28 行，物件： d/wudang/langmeiyuan
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/wudang/langmeiyuan
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/langmeiyuan
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/langmeiyuan
+呼叫来自：kungfu/class/wudang/shouyuan.c 的 create() 第 48 行，物件： kungfu/class/wudang/shouyuan ("成高道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/langmeiyuan
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/langmeiyuan
+呼叫来自：kungfu/class/wudang/shouyuan.c 的 create() 第 48 行，物件： kungfu/class/wudang/shouyuan#362 ("成高道长")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 12:01:19 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 12:19:09 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 12:19:13 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 12:20:24 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 12:20:45 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 12:23:58 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 12:24:51 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 12:26:46 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 338 行，物件： adm/daemons/logind
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1050 行，物件： adm/daemons/logind
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/save.c 的 main() 第 23 行，物件： cmds/usr/save
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/save.c 的 main() 第 23 行，物件： cmds/usr/save
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：clone/user/user.c 的 user_dump() 第 87 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/exit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 18:49:01 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 18:49:04 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+Heart beat in clone/user/user#230 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#230
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#230 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#230 ("科大教师")
+get_user_data: read on fd 256
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+get_user_data: read on fd 260
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+get_user_data: read on fd 260
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1104
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 338 行，物件： adm/daemons/logind
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1050 行，物件： adm/daemons/logind
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1104 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1104
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1104 ("科大教师")
+Heart beat in clone/user/user#1104 turned off.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1104
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 88 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/action.c 的 continue_action() 第 43 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：<function> 的 <function>() 第 0 行，物件： cmds/usr/suicide
+呼叫来自：cmds/usr/suicide.c 的 slow_suicide() 第 93 行，物件： cmds/usr/suicide
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1104 ("科大教师")
+Heart beat in clone/user/user#1104 turned off.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1104
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1104 ("科大教师")
+Heart beat in clone/user/user#1104 turned off.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1104 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1202
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 338 行，物件： adm/daemons/logind
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1050 行，物件： adm/daemons/logind
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1202 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1202
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1202 ("科大教师")
+Heart beat in clone/user/user#1202 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1202
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 88 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/action.c 的 continue_action() 第 43 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：<function> 的 <function>() 第 0 行，物件： cmds/usr/suicide
+呼叫来自：cmds/usr/suicide.c 的 slow_suicide() 第 93 行，物件： cmds/usr/suicide
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1202 ("科大教师")
+Heart beat in clone/user/user#1202 turned off.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1202
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1202 ("科大教师")
+Heart beat in clone/user/user#1202 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1202
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 88 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/action.c 的 continue_action() 第 43 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：<function> 的 <function>() 第 0 行，物件： cmds/usr/suicide
+呼叫来自：cmds/usr/suicide.c 的 slow_suicide() 第 93 行，物件： cmds/usr/suicide
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1202 ("科大教师")
+Heart beat in clone/user/user#1202 turned off.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1202 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1251
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 338 行，物件： adm/daemons/logind
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1050 行，物件： adm/daemons/logind
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1251 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1251
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 88 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/action.c 的 continue_action() 第 43 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：<function> 的 <function>() 第 0 行，物件： cmds/usr/suicide
+呼叫来自：cmds/usr/suicide.c 的 slow_suicide() 第 93 行，物件： cmds/usr/suicide
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1251 ("科大教师")
+Heart beat in clone/user/user#1251 turned off.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1251
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1251 ("科大教师")
+Heart beat in clone/user/user#1251 turned off.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1251
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1251 ("科大教师")
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1251
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1251 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#1251
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#1251 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#1251 ("科大教师")
+Heart beat in clone/user/user#1251 turned off.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 22:21:57 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 22:22:02 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+错误讯息被拦截: 
+执行时段错误：*Can't load objects when no effective user.
+
+程式：feature/condition.c 第 33 行
+物件: /clone/user/user#214
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#214 ("南宫长万")
+呼叫来自：feature/condition.c 的 update_condition() 第 33 行，物件： clone/user/user#214 ("南宫长万")
+呼叫来自：feature/condition.c 的 CATCH() 第 33 行，物件： clone/user/user#214 ("南宫长万")
+错误讯息被拦截: 
+执行时段错误：*Can't load objects when no effective user.
+
+程式：feature/condition.c 第 33 行
+物件: /clone/user/user#214
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#214 ("南宫长万")
+呼叫来自：feature/condition.c 的 update_condition() 第 33 行，物件： clone/user/user#214 ("南宫长万")
+呼叫来自：feature/condition.c 的 CATCH() 第 33 行，物件： clone/user/user#214 ("南宫长万")
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 22:31:04 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：adm/single/master.c 的 preload() 第 108 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 108 行，物件： adm/single/master
+呼叫来自：adm/daemons/questd.c 的 create() 第 34 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 72 行，物件： adm/daemons/questd
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 95 行，物件： adm/daemons/questd
+呼叫来自：d/wudang/xiaolu2.c 的 create() 第 26 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/xiaolu2
+呼叫来自：kungfu/class/wudang/mingyue.c 的 create() 第 39 行，物件： kungfu/class/wudang/mingyue ("明月")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：adm/daemons/rankd.c 第 207 行
+物件: /adm/daemons/rankd
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/wudang/xiaolu2
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/wudang/xiaolu2
+呼叫来自：kungfu/class/wudang/mingyue.c 的 create() 第 39 行，物件： kungfu/class/wudang/mingyue#651 ("明月")
+呼叫来自：adm/daemons/rankd.c 的 query_respect() 第 207 行，物件： adm/daemons/rankd
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#747
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 338 行，物件： adm/daemons/logind
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1050 行，物件： adm/daemons/logind
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#747 ("科大教师")
+
+执行时段错误：*Bad argument 1 to file_name()
+Expected: object Got: 0.
+
+程式：cmds/std/go.c 第 54 行
+物件: /cmds/std/go
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：cmds/std/go.c 的 main() 第 54 行，物件： cmds/std/go
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#747
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#747 ("科大教师")
+Heart beat in clone/user/user#747 turned off.
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：cmds/usr/exit.c 第 23 行
+物件: /cmds/usr/quit
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#747 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 23 行，物件： cmds/usr/quit
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#749
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 338 行，物件： adm/daemons/logind
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1050 行，物件： adm/daemons/logind
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#749 ("科大教师")
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 28 行
+物件: /adm/single/simul_efun
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：cmds/imm/goto.c 的 main() 第 38 行，物件： cmds/imm/goto
+呼叫来自：adm/single/simul_efun.c 的 message_vision() 第 28 行，物件： adm/single/simul_efun
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#749
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#749 ("科大教师")
+Heart beat in clone/user/user#749 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#749
+呼叫来自：inherit/char/char.c 的 heart_beat() 第 121 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/condition.c 的 update_condition() 第 51 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：kungfu/condition/autosave.c 的 update_condition() 第 14 行，物件： kungfu/condition/autosave
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#749 ("科大教师")
+Heart beat in clone/user/user#749 turned off.
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#749
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#749 ("科大教师")
+
+执行时段错误：*Denied write permission in save_object().
+
+程式：feature/save.c 第 9 行
+物件: /clone/user/user#749
+呼叫来自：feature/alias.c 的 process_input() 第 38 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：cmds/usr/exit.c 的 main() 第 35 行，物件： cmds/usr/quit
+呼叫来自：cmds/usr/exit.c 的 savequit() 第 117 行，物件： cmds/usr/quit
+呼叫来自：clone/user/user.c 的 save() 第 49 行，物件： clone/user/user#749 ("科大教师")
+呼叫来自：feature/save.c 的 save() 第 9 行，物件： clone/user/user#749 ("科大教师")
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Mon Apr 08 23:13:42 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 10:08:35 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+执行时段错误：*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+
+程式：adm/single/simul_efun.c 第 76 行
+物件: /adm/single/simul_efun
+呼叫来自：adm/daemons/logind.c 的 get_passwd() 第 327 行，物件： adm/daemons/logind
+呼叫来自：adm/single/simul_efun.c 的 tell_object() 第 76 行，物件： adm/single/simul_efun
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 13:26:41 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 13:27:01 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 13:27:04 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 13:27:17 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
