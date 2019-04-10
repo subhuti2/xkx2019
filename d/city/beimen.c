@@ -21,7 +21,7 @@ LONG );
 	]));
 	set("exits", ([
 		"south" : __DIR__"beimendajie",
-		"north" : "/d/nanyang/yidao",
+		"southwest" : "/d/nanyang/yidao",
 		"west"  : "/d/huanghe/caodi1",
 		"up"    : __DIR__"chenglou",
 		"northeast" : __DIR__"hangou2",

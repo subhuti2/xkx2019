@@ -1,6 +1,3 @@
-// xiaolu2.c ¡÷º‰–°æ∂
-// by Xiang
-
 #include <room.h>
 inherit ROOM;
 

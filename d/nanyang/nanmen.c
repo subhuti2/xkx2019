@@ -17,7 +17,7 @@ LONG);
 		"/d/city/npc/bing" : 1,
 	]));
 	set("outdoors","nanyang");
-	set("coor/x", 10);
+	set("coor/x", -20);
 	set("coor/y", 480);
 	set("coor/z", 0);
 	setup();

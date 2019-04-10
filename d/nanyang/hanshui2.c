@@ -19,7 +19,7 @@ LONG );
 	]));
 	set("outdoors", "nanyang");
 	set("no_clean_up", 0);
-	set("coor/x", 10);
+	set("coor/x", -20);
 	set("coor/y", 400);
 	set("coor/z", 0);
 	set("to",__DIR__"hanshui1");

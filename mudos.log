@@ -2717,3 +2717,480 @@ Loading preloaded files ...
 Initializations complete.
 
 Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 16:59:04 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Error in loading object '/d/nanyang/nanqi'
+
+程式：cmds/std/go.c 第 142 行
+物件: /cmds/std/go
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#351 ("学菩提")
+呼叫来自：cmds/std/go.c 的 main() 第 142 行，物件： cmds/std/go
+
+执行时段错误：*Error in loading object '/d/nanyang/nanqi'
+
+程式：cmds/std/look.c 第 607 行
+物件: /cmds/std/look
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#351 ("学菩提")
+呼叫来自：cmds/std/look.c 的 main() 第 112 行，物件： cmds/std/look
+呼叫来自：cmds/std/look.c 的 look_room_item() 第 607 行，物件： cmds/std/look
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 17:04:06 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*Error in loading object '/d/nanyang/nanqi'
+
+程式：cmds/std/look.c 第 607 行
+物件: /cmds/std/look
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#270 ("学菩提")
+呼叫来自：cmds/std/look.c 的 main() 第 112 行，物件： cmds/std/look
+呼叫来自：cmds/std/look.c 的 look_room_item() 第 607 行，物件： cmds/std/look
+
+执行时段错误：*Error in loading object '/d/nanyang/nanqi'
+
+程式：cmds/std/go.c 第 142 行
+物件: /cmds/std/go
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#270 ("学菩提")
+呼叫来自：cmds/std/go.c 的 main() 第 142 行，物件： cmds/std/go
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 17:05:28 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 17:07:40 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 17:13:39 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "file" : "",
+  "line" : 0,
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 17:18:56 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "line" : 0,
+  "file" : "",
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "line" : 0,
+  "file" : "",
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+Error in error handler: *Bad argument 1 to file_name()
+Expected: object Got: 0.
+program: /adm/single/master.c, object: /adm/single/master, file: /adm/single/master.c:224
+'  error_handler' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:242
+arguments were (([ /* sizeof() == 4 */
+  "line" : 0,
+  "file" : "",
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+' standard_trace' in ' adm/single/master.c' ('   adm/single/master') /adm/single/master.c:224
+arguments were (([ /* sizeof() == 4 */
+  "line" : 0,
+  "file" : "",
+  "trace" : ({ }),
+  "error" : "*Function for verb 'jump' not found.
+",
+]),0)
+locals were: 0,0,""
+
+执行时段错误：*Error in loading object '/d/nanyang/nanqi'
+
+程式：cmds/std/go.c 第 142 行
+物件: /cmds/std/go
+呼叫来自：feature/command.c 的 command_hook() 第 51 行，物件： clone/user/user#285 ("学菩提")
+呼叫来自：cmds/std/go.c 的 main() 第 142 行，物件： cmds/std/go
+错误讯息被拦截: 
+执行时段错误：*Error in loading object '/d/nanyang/nanqi'
+
+程式：cmds/wiz/update.c 第 100 行
+物件: /cmds/wiz/update
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#285 ("学菩提")
+呼叫来自：cmds/wiz/update.c 的 main() 第 42 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 updatefile() 第 100 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 CATCH() 第 100 行，物件： cmds/wiz/update
+错误讯息被拦截: 
+执行时段错误：*Create_door: Invalid door data, string or mapping expected.
+
+程式：inherit/room/room.c 第 169 行
+物件: /d/nanyang/nanqi
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#285 ("学菩提")
+呼叫来自：cmds/wiz/update.c 的 main() 第 42 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 updatefile() 第 100 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 CATCH() 第 100 行，物件： cmds/wiz/update
+呼叫来自：d/nanyang/nanqi.c 的 create() 第 19 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 create_door() 第 169 行，物件： d/nanyang/nanqi
+错误讯息被拦截: 
+执行时段错误：*Create_door: Invalid door data, string or mapping expected.
+
+程式：inherit/room/room.c 第 169 行
+物件: /d/nanyang/nanqi
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#285 ("学菩提")
+呼叫来自：cmds/wiz/update.c 的 main() 第 42 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 updatefile() 第 100 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 CATCH() 第 100 行，物件： cmds/wiz/update
+呼叫来自：d/nanyang/nanqi.c 的 create() 第 19 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 create_door() 第 169 行，物件： d/nanyang/nanqi
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 19:34:51 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+执行时段错误：*call_other() couldn't find object
+
+程式：cmds/std/go.c 第 142 行
+物件: /cmds/std/go
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#274 ("学菩提")
+呼叫来自：cmds/std/go.c 的 main() 第 142 行，物件： cmds/std/go
+
+执行时段错误：*call_other() couldn't find object
+
+程式：cmds/std/go.c 第 142 行
+物件: /cmds/std/go
+呼叫来自：feature/command.c 的 command_hook() 第 51 行，物件： clone/user/user#274 ("学菩提")
+呼叫来自：cmds/std/go.c 的 main() 第 142 行，物件： cmds/std/go
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：kungfu/class/keda/seller.c 第 51 行
+物件: /kungfu/class/keda/seller
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#274 ("学菩提")
+呼叫来自：cmds/wiz/update.c 的 main() 第 43 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 updatefile() 第 100 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 CATCH() 第 100 行，物件： cmds/wiz/update
+呼叫来自：d/nanyang/nanqi.c 的 create() 第 29 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/nanyang/nanqi
+呼叫来自：kungfu/class/keda/seller.c 的 create() 第 51 行，物件： kungfu/class/keda/seller ("灏忚穿")
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：kungfu/class/keda/seller.c 第 51 行
+物件: /kungfu/class/keda/seller#598
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#274 ("学菩提")
+呼叫来自：cmds/wiz/update.c 的 main() 第 43 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 updatefile() 第 100 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 CATCH() 第 100 行，物件： cmds/wiz/update
+呼叫来自：d/nanyang/nanqi.c 的 create() 第 29 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/nanyang/nanqi
+呼叫来自：kungfu/class/keda/seller.c 的 create() 第 51 行，物件： kungfu/class/keda/seller#598 ("灏忚穿")
+错误讯息被拦截: 
+执行时段错误：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+程式：kungfu/class/keda/seller.c 第 51 行
+物件: /kungfu/class/keda/seller#652
+呼叫来自：feature/command.c 的 command_hook() 第 55 行，物件： clone/user/user#274 ("学菩提")
+呼叫来自：cmds/wiz/update.c 的 main() 第 43 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 updatefile() 第 100 行，物件： cmds/wiz/update
+呼叫来自：cmds/wiz/update.c 的 CATCH() 第 100 行，物件： cmds/wiz/update
+呼叫来自：d/nanyang/nanqi.c 的 create() 第 29 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 setup() 第 203 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 reset() 第 54 行，物件： d/nanyang/nanqi
+呼叫来自：inherit/room/room.c 的 make_inventory() 第 19 行，物件： d/nanyang/nanqi
+呼叫来自：kungfu/class/keda/seller.c 的 create() 第 51 行，物件： kungfu/class/keda/seller#652 ("灏忚穿")
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 20:23:41 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 20:31:55 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+Initializing internal tables....
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Tue Apr 09 20:36:18 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 480
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+get_user_data: read on fd 496
+System Error: get_user_data: read: 当文件已存在时，无法创建该文件。
+
+
+<---侠客行2019: MudOs v22pre11 (by Sunyc,Sep  7 2002) startup on Microsoft Windows NT at Wed Apr 10 10:25:17 2019
+
+using config file: C:\AppData\xkx2019\config.yb
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.

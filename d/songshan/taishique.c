@@ -16,7 +16,7 @@ LONG );
 	set("exits", ([
 		"north" : __DIR__"tianzhongge",
 		"south" : "/d/kaifeng/shanlu2",
-		"east"  : "/d/nanyang/ruzhou",
+		"southwest"  : "/d/nanyang/ruzhou",
 		"west"  : "/d/shaolin/shijie1",
 	]));
 	set("outdoors", "songshan");

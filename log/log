@@ -43,3 +43,16 @@ d/city/shuyuan2.c line 6: Warning: redefinition of #define STORY_DIR
 
 kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
 kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/nanyang/nanqi.c line 21: Undefined variable 'DOOR_CLOSED'
+d/nanyang/nanqi.c line 21: Undefined variable 'DOOR_CLOSED'
+d/nanyang/nanqi.c line 18: Undefined variable 'DOOR_CLOSED'
+d/nanyang/nanqi.c line 18: Undefined variable 'DOOR_CLOSED'
+d/city/leitai.c line 104: Warning: Return type doesn't match prototype ( int vs string )
+d/huanggong/yushufang.c line 57: Warning: Return type doesn't match prototype ( int vs void )
+d/nanyang/nanqi.c line 18: Undefined variable 'DOOR_CLOSED'
+d/nanyang/nanqi.c line 18: Undefined variable 'DOOR_CLOSED'
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/taiji-jian.c line 397: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/skill/skill.c.
+d/wudujiao/obj/ganchai.c line 35: Warning: bitwise operation on boolean values.

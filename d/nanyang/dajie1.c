@@ -18,7 +18,7 @@ LONG);
 	set("objects",([
 		"/d/taishan/npc/tiao-fu" : 1,
 	]));
-	set("coor/x", 10);
+	set("coor/x", -20);
 	set("coor/y", 490);
 	set("coor/z", 0);
 	set("outdoors","nanyang");

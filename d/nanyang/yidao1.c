@@ -14,13 +14,13 @@ void create()
 旁是整整齐齐的杨树林。
 LONG );
 	set("exits", ([
-		"south" : __DIR__"yidao",
-		"north" : __DIR__"yidao2",
+		"southeast" : __DIR__"dashushan",
+		"northwest" : __DIR__"yidao2",
 	]));
 	set("no_clean_up", 0);
 	set("outdoors", "nanyang");
-	set("coor/x", 10);
-	set("coor/y", 300);
+	set("coor/x", -10);
+	set("coor/y", 200);
 	set("coor/z", 0);
 	setup();
 	replace_program(ROOM);

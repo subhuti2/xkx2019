@@ -14,13 +14,13 @@ void create()
 是整整齐齐的杨树林。看来扬州快到了。
 LONG );
 	set("exits", ([
-		"south" : "/d/city/beimen",
-		"north" : __DIR__"yidao1",
+		"northeast" : "/d/city/beimen",
+		"southwest" : __DIR__"xiaoyaojin",
 	]));
 	set("outdoors", "yangzhouw");
 	set("no_clean_up", 0);
-	set("coor/x", 10);
-	set("coor/y", 200);
+	set("coor/x", 6);
+	set("coor/y", 90);
 	set("coor/z", 0);
 	setup();
 	replace_program(ROOM);

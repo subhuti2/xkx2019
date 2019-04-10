@@ -14,12 +14,12 @@ void create()
 是整整齐齐的杨树林。
 LONG );
 	set("exits", ([
-		"south" : __DIR__"yidao1",
+		"southeast" : __DIR__"yidao1",
 		"north" : __DIR__"hanshui1",
 	]));
 	set("no_clean_up", 0);
 	set("outdoors", "nanyang");
-	set("coor/x", 10);
+	set("coor/x", -20);
 	set("coor/y", 310);
 	set("coor/z", 0);
 	setup();

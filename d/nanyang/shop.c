@@ -17,7 +17,7 @@ LONG);
 	set("objects",([
 		__DIR__"npc/boss" : 1,
 	]));
-	set("coor/x", 0);
+	set("coor/x", -30);
 	set("coor/y", 490);
 	set("coor/z", 0);
 	setup();

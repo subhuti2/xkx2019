@@ -21,7 +21,7 @@ LONG );
 		"/d/shaolin/npc/xiao-fan" : 1,
 	]));
 	set("outdoors", "nanyang");
-	set("coor/x", 10);
+	set("coor/x", -20);
 	set("coor/y", 500);
 	set("coor/z", 0);
 	setup();

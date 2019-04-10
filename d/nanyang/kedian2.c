@@ -16,7 +16,7 @@ LONG );
 		"down" : __DIR__"kedian1",
 	]));
 	set("no_clean_up", 0);
-	set("coor/x", 20);
+	set("coor/x", -10);
 	set("coor/y", 500);
 	set("coor/z", 10);
 	setup();

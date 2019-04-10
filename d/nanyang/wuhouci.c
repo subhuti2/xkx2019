@@ -17,7 +17,7 @@ LONG);
 	]));
 	set("outdoors","nanyang");
 	set("no_clean_up", 0);
-	set("coor/x", 20);
+	set("coor/x", -10);
 	set("coor/y", 520);
 	set("coor/z", 0);
 	setup();
